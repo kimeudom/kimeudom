@@ -2,15 +2,14 @@
 <hr>
 
 **(Student Developer)**
-<h3>Interests</h3>
 
-<hr>
 <p align="center">About me</p>
-<p>
+<p align="justify">
 add text here
 </p>
 
 
+<h3>Interests</h3>
 <ul>
   <li>Software Engineering</li>
   <li>AI/ ML</li>
@@ -33,7 +32,7 @@ add text here
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
-
+<br />
 
 ##### Skills
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -43,6 +42,7 @@ add text here
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="raspberrypi" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="r" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
+<br />
 
 #### Connect With Me
 <a href='https://www.linkedin.com/in/kimeudom/'>LinkedIn<a>
