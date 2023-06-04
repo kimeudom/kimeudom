@@ -3,15 +3,17 @@
 
 **(Student Developer)**
 <h3>Interests</h3>
-* Software Engineering
-* AI 
-* Data Science 
-* IoT
-* Cyber Security
-* Cloud Computing
-
+<ul>
+  <li>Software Engineering</li>
+  <li>AI/ ML</li>
+  <li>Data Science</li>
+  <li>IoT</li>
+  <li>Cyber Security</li>
+  <li>Cloud Computing</li>
+</ul>
+<hr>
+<p align="center">About me</p>
 <p>
-About me
 </p>
 
 
