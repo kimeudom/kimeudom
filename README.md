@@ -3,12 +3,12 @@
 
 **(Student Developer)**
 <h3>Interests</h3>
-- Software Engineering
-- AI 
-- Data Science 
-- IoT
-- Cyber Security
-- Cloud Computing
+* Software Engineering
+* AI 
+* Data Science 
+* IoT
+* Cyber Security
+* Cloud Computing
 
 <p>
 About me
