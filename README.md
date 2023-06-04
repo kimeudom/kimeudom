@@ -1,6 +1,14 @@
-### [Dominic K. Kimeu]$ 
+<h1 align="center" >Dominic K. Kimeu </h1>
+<hr>
 
-**'Student Developer'**
+**(Student Developer)**
+<h3>Interests</h3>
+- Software Engineering
+- AI 
+- Data Science 
+- IoT
+- Cyber Security
+- Cloud Computing
 
 <p>
 About me
