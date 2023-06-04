@@ -1,6 +1,6 @@
 ### [Dominic K. Kimeu]$ 
 
-**<h5>(Student Developer)</h5>**
+**'Student Developer'**
 
 <p>
 About me
