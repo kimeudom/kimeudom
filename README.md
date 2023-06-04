@@ -3,6 +3,14 @@
 
 **(Student Developer)**
 <h3>Interests</h3>
+
+<hr>
+<p align="center">About me</p>
+<p>
+add text here
+</p>
+
+
 <ul>
   <li>Software Engineering</li>
   <li>AI/ ML</li>
@@ -11,11 +19,6 @@
   <li>Cyber Security</li>
   <li>Cloud Computing</li>
 </ul>
-<hr>
-<p align="center">About me</p>
-<p>
-</p>
-
 
 ##### Languages
 
@@ -29,7 +32,8 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="mySQL" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" alt="mySQL" width="30px" style="padding-right:10px" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+
 
 ##### Skills
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
