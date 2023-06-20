@@ -41,6 +41,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" alt="mariaDB" width="30px" style="padding-right:10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-plain.svg" />
 <br />
 
 ## Skills
