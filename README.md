@@ -5,7 +5,7 @@
 
 <p align="center">About me</p>
 <p align="justify">
-  I am a current undergraduate student taking a B. Sc. in Computer Science.
+  I am a current undergraduate student pursuing a B. Sc. in Computer Science.
 
   Open to doing projects that align with my interests below. 👍
 </p>
@@ -69,4 +69,12 @@
 <br />
 <a href="https://linkedin.com/in/kimeudom" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="elvis mutinda" height="30" width="40" /></a>
+    alt="Kimeu Dominic Linkedin" height="30" width="40" /></a>
+
+--- 
+
+<p align="center">
+  <a href="https://github.com/kimeudom">
+    <img src="https://komarev.com/ghpvc/?username=kimeudom&color=blue&style=flat)" />
+  </a>
+</p>
