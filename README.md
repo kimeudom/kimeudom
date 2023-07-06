@@ -1,8 +1,7 @@
 <h1 align="center">Dominic K. Kimeu </h1>
 <hr>
 
-**(Student Developer)**
-
+<p><bold>(Student Developer)</bold> <img src='./gifs/rocket_pack.gif' height='20px'></p> 
 <p align="center">About me</p>
 <p align="justify">
   I am a current undergraduate student pursuing a B. Sc. in Computer Science.
