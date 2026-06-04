@@ -2,12 +2,7 @@
 <hr>
 
 <p><bold>(Software Developer)</bold></p> 
-<p align="center">About me</p>
-<p align="justify">
-Academic Background: Computer Science.
-
-</p>
-
+<p align="justify">Academic Background: Computer Science.</p>
 
 <h3>Interests</h3>
 <ul>
