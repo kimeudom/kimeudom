@@ -1,10 +1,10 @@
 <h1 align="center">Dominic K. Kimeu </h1>
 <hr>
 
-<p><bold>(Student Developer)</bold> <img src='./gifs/rocket_pack.gif' height='20px'></p> 
+<p><bold>(Software Developer)</bold> <img src='./gifs/rocket_pack.gif' height='20px'></p> 
 <p align="center">About me</p>
 <p align="justify">
-  I am a current undergraduate student pursuing a B. Sc. in Computer Science.
+ Academic Background: Computer Science.
 
   Open to doing projects that align with my interests below. 👍
 </p>
@@ -22,41 +22,41 @@
 
 ## Languages
 <img align="left" alt="C" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-plain.svg" />
 <br />
 
 ## Tools
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-plain.svg" />
 <br />
 
 ## Skills
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="raspberrypi" width="30px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="r" width="30px" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/r/r-plain.svg" />
 <br />
 
 <br />
