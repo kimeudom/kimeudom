@@ -38,24 +38,26 @@ Academic Background: Computer Science.
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
   src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-plain.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MSSQL" width="30px" style="padding-right:10px"
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <br />
 
 ## Skills
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;"
   src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/git/git-original.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/github/github-original.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/matlab/matlab-original.svg" />
+src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/numpy/numpy-original.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" />
 <img align="left" alt="raspberrypi" width="30px" style="padding-right:10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="r" width="30px" style="padding-right:10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/devicon/icons/r/r-plain.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/r/r-original.svg" />
 <br />
 
 <br />
@@ -66,11 +68,3 @@ Academic Background: Computer Science.
 <a href="https://linkedin.com/in/kimeudom" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="Kimeu Dominic Linkedin" height="30" width="40" /></a>
-
---- 
-
-<p align="center">
-  <a href="https://github.com/kimeudom">
-    <img src="https://komarev.com/ghpvc/?username=kimeudom&color=blue&style=flat)" />
-  </a>
-</p>
