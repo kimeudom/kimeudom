@@ -1,19 +1,18 @@
 <h1 align="center">Dominic K. Kimeu </h1>
 <hr>
 
-<p><bold>(Software Developer)</bold> <img src='./gifs/rocket_pack.gif' height='20px'></p> 
+<p><bold>(Software Developer)</bold></p> 
 <p align="center">About me</p>
 <p align="justify">
- Academic Background: Computer Science.
+Academic Background: Computer Science.
 
-  Open to doing projects that align with my interests below. 👍
 </p>
 
 
 <h3>Interests</h3>
 <ul>
   <li>Software Engineering</li>
-  <li>AI/ ML</li>
+  <li>AI/ML</li>
   <li>Data Science</li>
   <li>IoT</li>
   <li>Cyber Security</li>
@@ -31,7 +30,7 @@
 
 ## Tools
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;"
-  src="https://raw.githubusercontent.com/devicons/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" />
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
   src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;"
